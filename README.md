@@ -17,3 +17,4 @@ The following snippet prints `hello world!` in Javascript. Newlines are included
     "\041"
     )
 
+For other examples of estrociness, see [this popular talk](https://www.destroyallsoftware.com/talks/wat).
